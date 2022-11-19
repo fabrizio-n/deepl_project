@@ -1,8 +1,0 @@
-per ogni traccia generare numpy array
-splittare traccia in 10 sottotracce
-per ogni sottotraccia calcolare matrice mfcc
-associare label ad ogni matrice 
-creare tensor (canali, feature mfcc, colonne)
-
-
- 
