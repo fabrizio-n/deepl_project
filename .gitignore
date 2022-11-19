@@ -1,7 +1,7 @@
 data_id_lab_subt
 sec3_mfcc
 sec3_subtracks
-Processed_data\RNN\X_train
-Processed_data\RNN\X_test
-Processed_data\RNN\y_train
-Processed_data\RNN\y_test
+X_train
+X_test
+y_train
+y_test
