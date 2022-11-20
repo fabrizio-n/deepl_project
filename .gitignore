@@ -1,8 +1,6 @@
 data_id_lab_subt
 sec3_mfcc
-sec3_mfcc_tens
-sec3_subtracks
-target
+sec3_subtr_trim
 X_train
 X_test
 y_train
