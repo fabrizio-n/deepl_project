@@ -1,0 +1,15 @@
+name: deepl
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - jupyter
+  - pip
+  - tqdm
+  - pip:
+    - torchinfo
+    - librosa
