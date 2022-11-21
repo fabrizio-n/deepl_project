@@ -5,3 +5,7 @@ X_train
 X_test
 y_train
 y_test
+train
+test
+data_test
+data_train
