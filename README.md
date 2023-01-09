@@ -1,4 +1,4 @@
-# Music Genre Classification Projectr
+# Music Genre Classification Project
 
 ## 1. data_preprocess.ipynb - Data Pre-Processing Notebook
 
